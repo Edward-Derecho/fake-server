@@ -1,12 +1,11 @@
-[
-    {
-      "id": 1,
-      "email": "usuario1",
-      "password": "usuario1"
-    },
-    {
-      "id": 2,
-      "email": "usuario2",
-      "password": "usuario2"
-    }
-  ]
+{"users":[
+  {
+    "email": "usuario1",
+    "password": "usuario1"
+  },
+  {
+    "email": "usuario2",
+    "password": "usuario2"
+  }
+]
+}
