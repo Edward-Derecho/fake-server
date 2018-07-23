@@ -12,7 +12,8 @@
   }
   ],
   "logout":[
-    {"id":3
+    {"id":2,
+      "token": "abcde"
     }
   ]
 }
