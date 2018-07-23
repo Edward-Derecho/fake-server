@@ -10,5 +10,9 @@
     "email": "usuario2",
     "password": "usuario2"
   }
+  ],
+  "logout":[
+    {"":""
+    }
   ]
 }
