@@ -15,5 +15,27 @@
     {"id":2,
       "token": "abcde"
     }
+  ],
+  "allMunicipios":[
+    {
+      "id": 1,
+      "nombre": "Avila"
+    },
+    {
+      "id": 2,
+      "nombre": "Alicante"
+    },
+    {
+      "id": 3,
+      "nombre": "Barcelona"
+    },
+    {
+      "id": 4,
+      "nombre": "Bilbao"
+    },
+    {
+      "id": 5,
+      "nombre": "Navalmoral de la Mata"
+    }
   ]
 }
