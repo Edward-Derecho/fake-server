@@ -18,24 +18,24 @@
   ],
   "allMunicipios":[
     {
-      "id": 1,
-      "nombre": "Avila"
+      "nombre": "Avila",
+      "provincia": "AB"
     },
     {
-      "id": 2,
-      "nombre": "Alicante"
+      "nombre": "Alicante",
+      "provincia": "CD"
     },
     {
-      "id": 3,
-      "nombre": "Barcelona"
+      "nombre": "Barcelona",
+      "provincia": "EF"
     },
     {
-      "id": 4,
-      "nombre": "Bilbao"
+      "nombre": "Bilbao",
+      "provincia": "GH"
     },
     {
-      "id": 5,
-      "nombre": "Navalmoral de la Mata"
+      "nombre": "Navalmoral de la Mata",
+      "provincia": "IJ"
     }
   ]
 }
