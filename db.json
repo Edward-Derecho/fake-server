@@ -3,12 +3,14 @@
   {
     "id": 1,
     "email": "usuario1@usuario.com",
-    "password": "usuario1"
+    "password": "usuario1",
+    "token": "1234"
   },
   {
     "id": 2,
     "email": "usuario2@usuario.com",
-    "password": "usuario2"
+    "password": "usuario2",
+    "token": "5678"
   }
   ],
   "logout":[
