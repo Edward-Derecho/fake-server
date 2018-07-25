@@ -39,7 +39,19 @@
       "nombre": "Navalmoral de la Mata",
       "provincia": "IJ"
     }
-
-  
+  ],
+  "notaSimple": [
+    {
+      "nombre": "Usuario 1",
+      "direccionPiso": "Direccion 1",
+      "municipios": "Spain",
+      "isUrgente": false
+    },
+    {
+      "nombre": "Usuario 2",
+      "direccionPiso": "Direccion 2",
+      "municipios": "Estonia",
+      "isUrgente": true
+    }
   ]
 }
