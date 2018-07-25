@@ -16,7 +16,7 @@
       "token": "abcde"
     }
   ],
-  "nombre":[
+  "allMunicipios":[
     {
       "nombre": "Avila",
       "provincia": "AB"
@@ -37,5 +37,7 @@
       "nombre": "Navalmoral de la Mata",
       "provincia": "IJ"
     }
+
+  
   ]
 }
