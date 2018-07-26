@@ -41,7 +41,6 @@
     }
   ],
   "notaSimple": [
-    {"notas": [
         {
       "id":1,
       "nombre": "Usuario 1",
@@ -56,7 +55,6 @@
       "municipios": "Estonia",
       "isUrgente": true
       }
-      ]}
   ]
 
 
