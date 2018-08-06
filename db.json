@@ -4,13 +4,13 @@
     "id": 1,
     "email": "usuario1@usuario.com",
     "password": "usuario1",
-    "nombre": "Usuario 1",
+    "nombreUser": "Usuario 1",
     "token": "1234"
   },
   {
     "email": "usuario2@usuario.com",
     "password": "usuario2",
-    "nombre": "Usuario 2",
+    "nombreUser": "Usuario 2",
     "token": "5678"
   }
   ],
