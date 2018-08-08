@@ -46,14 +46,14 @@
       "id":1,
       "nombre": "Usuario 1",
       "direccionPiso": "Direccion 1",
-      "municipios": "Spain",
+      "municipio": "Spain",
       "isUrgente": false
       },
       {
       "id":2,
       "nombre": "Usuario 2",
       "direccionPiso": "Direccion 2",
-      "municipios": "Estonia",
+      "municipio": "Estonia",
       "isUrgente": true
       }
   ]
